@@ -1,2 +1,2 @@
-# Ola-Mundo
- Aprendendo Git com Guanabara
+# Olá,Mundo!
+ Aprendendo Git e GitHub com Guanabara
